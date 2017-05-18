@@ -1,5 +1,5 @@
-#Pastebin Monitor
-##Small app that fetches pastas'
+# Pastebin Monitor
+### Small app that fetches pastas'
 
 * it can also filter them according to RegEx'es (to get for example account or phone numbers etc.),
 * save into multiple formats including HTML, SQL, JSON, XML, CSV, DOCX etc.
